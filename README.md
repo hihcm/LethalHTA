@@ -1,4 +1,3 @@
-免杀技术交流群 https://t.me/msjsjlq
 
 # LethalHTA
 Repo for our Lateral Movement technique using DCOM and HTA.
